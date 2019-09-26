@@ -1,0 +1,25 @@
+.headingContainer {
+  background: url('http://img2.tvtome.com/i/tvp/gl/14425.jpg');
+  height: 50%;
+  padding-bottom: 100px;
+
+}
+
+.heading {
+  float: left;
+  width: 30%;
+  margin: 1.6%;
+  text-align: center;
+  font-family: "Arial Black";
+  font-size: 40px;
+}
+
+.homeBorder {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.sneaky {
+  color: white;
+  opacity: 0.3;
+}

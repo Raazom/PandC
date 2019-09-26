@@ -1,0 +1,31 @@
+img{
+  width: 30%;
+  float: left;
+  margin: 1.5%;
+  height: 660px;
+}
+
+video {
+  width: 30%;
+  height: 360px;
+  margin: 1.4%;
+}
+
+body {
+  /* background-color: rgba(27,31,34,0.85); */
+  background: linear-gradient(#202020, #003366);
+}
+
+.textAlignment {
+  text-align: center;
+  font-weight: 800;
+  color: white;
+}
+
+.zoom {
+  transition: transform .2s;
+}
+
+.zoom:hover {
+  transform: scale(1.2);
+}
