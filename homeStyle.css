@@ -34,6 +34,10 @@
   /* width: 50% */
 }
 
+.textTooLong {
+  padding-right: 10px;
+}
+
 p {
   font-family: Helvetica;
   font-weight: 600;
@@ -92,7 +96,8 @@ iframe {
 
 body {
   /* background-color: #474e5d; */
-  background: linear-gradient(#202020, #C0C0C0);
+/*   background: linear-gradient(#202020, #C0C0C0); */
+  background: linear-gradient(#242611, #DAA520);
   font-family: Helvetica, sans-serif;
 }
 
